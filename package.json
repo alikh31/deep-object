@@ -1,0 +1,28 @@
+{
+  "name": "deep-object",
+  "version": "0.0.1",
+  "description": "Adding deep object mapping on top of lodash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikh31/deep-object.git"
+  },
+  "keywords": [
+    "lodash",
+    "deep",
+    "object",
+    "mapping"
+  ],
+  "author": "Ali Khoramshahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikh31/deep-object/issues"
+  },
+  "homepage": "https://github.com/alikh31/deep-object#readme",
+  "dependencies": {
+    "lodash": "^4.14.0"
+  }
+}
