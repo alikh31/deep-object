@@ -1,6 +1,6 @@
 {
-  "name": "deep-object",
-  "version": "0.0.1",
+  "name": "deep-object-map",
+  "version": "0.0.2",
   "description": "Adding deep object mapping on top of lodash",
   "main": "index.js",
   "scripts": {
